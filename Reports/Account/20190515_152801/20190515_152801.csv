@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Account,,,,2019-05-15 15:28:04,2019-05-15 15:28:05,1.281s,FAILED
+,,,,,,,
+Test Cases/Create Account,,,,2019-05-15 15:28:04,2019-05-15 15:28:05,0.727s,FAILED
+sendRequest(findTestObject(null)),,,,2019-05-15 15:28:04,2019-05-15 15:28:05,0.217s,FAILED

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>C%%Users%lenovo%Katalon Studio%UnilogAPI%UnilogAPI.prj</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.groovy.core.groovyNature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>kat-1156255522122625284.groovy</name>
+			<type>1</type>
+			<location>C:/Users/lenovo/AppData/Local/Temp/Katalon/Web Services/kat-1156255522122625284.groovy</location>
+		</link>
+		<link>
+			<name>kat-131720862430809674.groovy</name>
+			<type>1</type>
+			<location>C:/Users/lenovo/AppData/Local/Temp/Katalon/Web Services/kat-131720862430809674.groovy</location>
+		</link>
+		<link>
+			<name>kat-1394159842042101833.groovy</name>
+			<type>1</type>
+			<location>C:/Users/lenovo/AppData/Local/Temp/Katalon/Web Services/kat-1394159842042101833.groovy</location>
+		</link>
+		<link>
+			<name>kat-142948945157457721.groovy</name>
+			<type>1</type>
+			<location>C:/Users/lenovo/AppData/Local/Temp/Katalon/Web Services/kat-142948945157457721.groovy</location>
+		</link>
+		<link>
+			<name>kat-2215791443375122511.groovy</name>
+			<type>1</type>
+			<location>C:/Users/lenovo/AppData/Local/Temp/Katalon/Web Services/kat-2215791443375122511.groovy</location>
+		</link>
+		<link>
+			<name>kat-2964978630433128335.groovy</name>
+			<type>1</type>
+			<location>C:/Users/lenovo/AppData/Local/Temp/Katalon/Web Services/kat-2964978630433128335.groovy</location>
+		</link>
+		<link>
+			<name>kat-3076113922592786072.groovy</name>
+			<type>1</type>
+			<location>C:/Users/lenovo/AppData/Local/Temp/Katalon/Web Services/kat-3076113922592786072.groovy</location>
+		</link>
+		<link>
+			<name>kat-3507852492027443071.groovy</name>
+			<type>1</type>
+			<location>C:/Users/lenovo/AppData/Local/Temp/Katalon/Web Services/kat-3507852492027443071.groovy</location>
+		</link>
+		<link>
+			<name>kat-4624462583515301276.groovy</name>
+			<type>1</type>
+			<location>C:/Users/lenovo/AppData/Local/Temp/Katalon/Web Services/kat-4624462583515301276.groovy</location>
+		</link>
+		<link>
+			<name>kat-467356806316705493.groovy</name>
+			<type>1</type>
+			<location>C:/Users/lenovo/AppData/Local/Temp/Katalon/Web Services/kat-467356806316705493.groovy</location>
+		</link>
+		<link>
+			<name>kat-474934663617752149.groovy</name>
+			<type>1</type>
+			<location>C:/Users/lenovo/AppData/Local/Temp/Katalon/Web Services/kat-474934663617752149.groovy</location>
+		</link>
+		<link>
+			<name>kat-4838091067279227949.groovy</name>
+			<type>1</type>
+			<location>C:/Users/lenovo/AppData/Local/Temp/Katalon/Web Services/kat-4838091067279227949.groovy</location>
+		</link>
+		<link>
+			<name>kat-4873852035384311320.groovy</name>
+			<type>1</type>
+			<location>C:/Users/lenovo/AppData/Local/Temp/Katalon/Web Services/kat-4873852035384311320.groovy</location>
+		</link>
+		<link>
+			<name>kat-4948807117684470142.groovy</name>
+			<type>1</type>
+			<location>C:/Users/lenovo/AppData/Local/Temp/Katalon/Web Services/kat-4948807117684470142.groovy</location>
+		</link>
+		<link>
+			<name>kat-5359292509352311788.groovy</name>
+			<type>1</type>
+			<location>C:/Users/lenovo/AppData/Local/Temp/Katalon/Web Services/kat-5359292509352311788.groovy</location>
+		</link>
+		<link>
+			<name>kat-5453686764570516595.groovy</name>
+			<type>1</type>
+			<location>C:/Users/lenovo/AppData/Local/Temp/Katalon/Web Services/kat-5453686764570516595.groovy</location>
+		</link>
+		<link>
+			<name>kat-7738853774183795531.groovy</name>
+			<type>1</type>
+			<location>C:/Users/lenovo/AppData/Local/Temp/Katalon/Web Services/kat-7738853774183795531.groovy</location>
+		</link>
+		<link>
+			<name>kat-7943476846091877971.groovy</name>
+			<type>1</type>
+			<location>C:/Users/lenovo/AppData/Local/Temp/Katalon/Web Services/kat-7943476846091877971.groovy</location>
+		</link>
+		<link>
+			<name>kat-8333887528883877983.groovy</name>
+			<type>1</type>
+			<location>C:/Users/lenovo/AppData/Local/Temp/Katalon/Web Services/kat-8333887528883877983.groovy</location>
+		</link>
+		<link>
+			<name>kat-8473920849500721128.groovy</name>
+			<type>1</type>
+			<location>C:/Users/lenovo/AppData/Local/Temp/Katalon/Web Services/kat-8473920849500721128.groovy</location>
+		</link>
+	</linkedResources>
+	<filteredResources>
+		<filter>
+			<id>1557903680913</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>.*\.svn$</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1557903680926</id>
+			<name></name>
+			<type>6</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>(.*\.svn-base$)|(.*\.png$)|(.*\.log$)|(.*\.xlsx$)|(.*\.xls$)|(.*\.csv$)|(.*\.txt$)</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1558321020114</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>.*\.svn$</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1558321020128</id>
+			<name></name>
+			<type>6</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>(.*\.svn-base$)|(.*\.png$)|(.*\.log$)|(.*\.xlsx$)|(.*\.xls$)|(.*\.csv$)|(.*\.txt$)</arguments>
+			</matcher>
+		</filter>
+	</filteredResources>
+</projectDescription>
