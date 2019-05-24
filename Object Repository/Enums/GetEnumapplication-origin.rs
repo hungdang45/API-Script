@@ -1,29 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>CreateDevOps</name>
+   <name>GetEnumapplication-origin</name>
    <tag></tag>
-   <elementGuidId>da4d7349-d458-4793-b160-33647dac2740</elementGuidId>
+   <elementGuidId>80fc2484-96f1-4ae8-b8b1-20b9c4275d6b</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
-   <httpBodyContent>{
-  &quot;text&quot;: &quot;{\n  \&quot;projectId\&quot;: \&quot;string\&quot;,\n  \&quot;pipeline\&quot;: \&quot;string\&quot;,\n  \&quot;projectName\&quot;: \&quot;string\&quot;,\n  \&quot;stage\&quot;: \&quot;string\&quot;,\n  \&quot;companyId\&quot;: 0,\n  \&quot;action\&quot;: \&quot;string\&quot;,\n  \&quot;branch\&quot;: \&quot;string\&quot;,\n  \&quot;pusher\&quot;: \&quot;string\&quot;\n}&quot;,
-  &quot;contentType&quot;: &quot;text/plain&quot;,
-  &quot;charset&quot;: &quot;UTF-8&quot;
-}</httpBodyContent>
-   <httpBodyType>text</httpBodyType>
-   <httpHeaderProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>Content-Type</name>
-      <type>Main</type>
-      <value>text/plain</value>
-   </httpHeaderProperties>
+   <httpBodyContent></httpBodyContent>
+   <httpBodyType></httpBodyType>
    <migratedVersion>5.4.1</migratedVersion>
-   <restRequestMethod>POST</restRequestMethod>
-   <restUrl>http://apiunilog.unicode.edu.vn/api/DevOps</restUrl>
+   <restRequestMethod>GET</restRequestMethod>
+   <restUrl>http://apiunilog.unicode.edu.vn/api/Enum/application-origin</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>

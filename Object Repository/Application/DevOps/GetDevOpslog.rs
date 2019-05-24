@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>PatchSystem</name>
+   <name>GetDevOpslog</name>
    <tag></tag>
-   <elementGuidId>e6cc02d7-cc4f-4c7d-bb95-9371becbed7b</elementGuidId>
+   <elementGuidId>11a0110d-a409-4874-a7f6-561edcaac16f</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
-   <httpBodyContent>{
-  &quot;text&quot;: &quot;&quot;,
-  &quot;contentType&quot;: &quot;text/plain&quot;,
-  &quot;charset&quot;: &quot;UTF-8&quot;
-}</httpBodyContent>
-   <httpBodyType>text</httpBodyType>
+   <httpBodyContent></httpBodyContent>
+   <httpBodyType></httpBodyType>
    <migratedVersion>5.4.1</migratedVersion>
-   <restRequestMethod>PATCH</restRequestMethod>
-   <restUrl></restUrl>
+   <restRequestMethod>GET</restRequestMethod>
+   <restUrl>http://apiunilog.unicode.edu.vn/api/DevOps/log?Active=true&amp;IdDevOps=14</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>

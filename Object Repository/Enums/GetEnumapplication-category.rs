@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>DeleteSystem</name>
+   <name>GetEnumapplication-category</name>
    <tag></tag>
-   <elementGuidId>3d8ad930-1420-4c42-9ce6-968583eeb1ec</elementGuidId>
+   <elementGuidId>a5f756c4-81d6-4996-a775-b4a24505bfe4</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
-   <httpBodyContent>{
-  &quot;text&quot;: &quot;&quot;,
-  &quot;contentType&quot;: &quot;text/plain&quot;,
-  &quot;charset&quot;: &quot;UTF-8&quot;
-}</httpBodyContent>
-   <httpBodyType>text</httpBodyType>
+   <httpBodyContent></httpBodyContent>
+   <httpBodyType></httpBodyType>
    <migratedVersion>5.4.1</migratedVersion>
-   <restRequestMethod>DELETE</restRequestMethod>
-   <restUrl></restUrl>
+   <restRequestMethod>GET</restRequestMethod>
+   <restUrl>http://apiunilog.unicode.edu.vn/api/Enum/application-category</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>

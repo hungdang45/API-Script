@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>PostSystem</name>
+   <name>CreateDevOps</name>
    <tag></tag>
-   <elementGuidId>d90ceb66-a2d3-4126-83fb-06898783e228</elementGuidId>
+   <elementGuidId>da4d7349-d458-4793-b160-33647dac2740</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;{\n  \&quot;name\&quot;: \&quot;Test 11\&quot;,\n  \&quot;status\&quot;: 1,\n  \&quot;description\&quot;: \&quot;Test\&quot;,\n  \&quot;serverId\&quot;: 1,\n  \&quot;systemId\&quot;: 14\n}&quot;,
+  &quot;text&quot;: &quot;{\n  \&quot;projectId\&quot;: \&quot;5fd6bc4e-b07e-48f1-81c4-bde534c6f871\&quot;,\n  \&quot;pipeline\&quot;: \&quot;string\&quot;,\n  \&quot;projectName\&quot;: \&quot;Test POST method 1\&quot;,\n  \&quot;stage\&quot;: \&quot;develope\&quot;,\n  \&quot;companyId\&quot;: 4,\n  \&quot;action\&quot;: \&quot;string\&quot;,\n  \&quot;branch\&quot;: \&quot;string\&quot;,\n  \&quot;pusher\&quot;: \&quot;string\&quot;\n}&quot;,
   &quot;contentType&quot;: &quot;application/json&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>
@@ -23,7 +23,7 @@
    </httpHeaderProperties>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>POST</restRequestMethod>
-   <restUrl>http://apiunilog.unicode.edu.vn/api/SystemInstance</restUrl>
+   <restUrl>http://apiunilog.unicode.edu.vn/api/DevOps</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
